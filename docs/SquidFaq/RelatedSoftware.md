@@ -53,8 +53,6 @@ kernel-based layer 3-7 load balancer for Linux
   SNMP-based data
 - [RRDtool](http://oss.oetiker.ch/rrdtool) is the grandparent of F/OSS
   performance monitoring solutions
-- [SqStat](http://samm.kiev.ua/sqstat/) is an alternate frontend using
-  the cache manager interface to collect and display real-time data.
 
 ## Logfile Analysis
 
